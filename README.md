@@ -42,8 +42,6 @@ Selecciona una opción introduciendo el número correspondiente.
 
 El programa continuará ejecutándose hasta que elijas salir.
 
-css
-Copiar
 #include <iostream>
 #include <string>
 #include <vector>
